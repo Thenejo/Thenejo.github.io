@@ -1,2 +1,2 @@
-Nejat Ulusal
+Nejat Ulusal \n
 https://thenejo.itch.io/
